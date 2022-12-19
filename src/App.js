@@ -7,7 +7,12 @@ var flagDictionary = {
   " 🇺🇸": "USA",
   " 🇬🇧": "UnitedKingdom",
   " 🇪🇸": "Spain",
-  "  🇲🇽": "Mexico"
+  "  🇲🇽": "Mexico",
+  " 🇫🇷": "France",
+  " 🇯🇵": "Japan",
+  "🇰🇪	": "Kenya",
+  "🇺🇬	": "Uganda",
+  "🇹🇿	": "Tanzania"
 };
 
 var flags = Object.keys(flagDictionary);
